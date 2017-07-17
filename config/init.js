@@ -17,7 +17,7 @@
       //  _db: 'mongodb://localhost:27017/mydb',
         /*_db: 'mongodb://admin:admin@ds063297.mongolab.com:63297/nodejsforum',*/
         //_db: 'mongodb://root:1234563@ds039507.mongolab.com:39507/mydb',
-        _db: 'mongodb://admin:egaflower3@ds161032.mlab.com:61032/bodaboda1'
+        _db: 'mongodb://admin:egaflower3@ds161032.mlab.com:61032/bodaboda1',
         _tokenScrete: 'huhuhu'
     };
 
