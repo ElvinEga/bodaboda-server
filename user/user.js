@@ -384,7 +384,7 @@
             var userId, userName, password, deviceId, fullname, phone, birthday, location;
             userName = req.body.username;
             password = req.body.password;
-            deviceId = req.body.deviceId;
+            deviceId = req.body.username;
             fullname = req.body.fullname;
             phone = req.body.phone;
             /*birthday = req.body.birthday;*/
