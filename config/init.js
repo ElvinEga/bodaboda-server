@@ -9,7 +9,7 @@
     //Config All Project
     serverConfig = {
         _apiServerPath: '/home/hubtaxi-backend',
-        _port: 8080,
+        _port: 6868,
         _sessionSecret: 'Enter Secret',
         _cookieSecret: 'Enter Secret',
         /*_db: 'mongodb://admin:admin@ds027769.mongolab.com:27769/nodejsvn',*/
@@ -26,7 +26,7 @@
     {
         'localhost': {
             _apiServerPath: '/',
-            _db: "mongodb://admin:admin@ds063297.mongolab.com:63297/nodejsforum2",
+            _db: "mongodb://admin:egaflower3@ds161032.mlab.com:61032/bodaboda1",
             _tokenScrete: "locahostToken",
             _cookieSecret: "localhostCookie",
             _sessionSecret: "localhostSession",
