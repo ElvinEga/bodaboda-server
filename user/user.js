@@ -418,7 +418,7 @@
                         }
                     });
                 },
-                function (salt, hash, user, cb) {
+          /*      function (salt, hash, user, cb) {
 
                     User.getUser(null, userName, function (err, result) {
                         if (!result) {
@@ -428,7 +428,7 @@
                             cb('REGISTER.ERR.USERNAME', salt, hash);
                         }
                     });
-                },
+                },*/
                 function (salt, hash, user, cb) {
                     console.log('getUserInfo', user);
                     if (user.id == userId) {
